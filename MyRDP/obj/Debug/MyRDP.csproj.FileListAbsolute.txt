@@ -1,0 +1,17 @@
+C:\Users\lw\source\repos\MyRDP\MyRDP\bin\Debug\MyRDP.exe.config
+C:\Users\lw\source\repos\MyRDP\MyRDP\bin\Debug\MyRDP.exe
+C:\Users\lw\source\repos\MyRDP\MyRDP\bin\Debug\MyRDP.pdb
+C:\Users\lw\source\repos\MyRDP\MyRDP\bin\Debug\Costura.dll
+C:\Users\lw\source\repos\MyRDP\MyRDP\bin\Debug\Costura.pdb
+C:\Users\lw\source\repos\MyRDP\MyRDP\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\lw\source\repos\MyRDP\MyRDP\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\MyRDP.csprojResolveAssemblyReference.cache
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\MyRDP.csproj.ResolveComReference.cache
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\MyRDP.Form1.resources
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\MyRDP.Properties.Resources.resources
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\MyRDP.csproj.GenerateResource.Cache
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\MyRDP.csproj.CoreCompileInputs.cache
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\MyRDP.exe
+C:\Users\lw\source\repos\MyRDP\MyRDP\obj\Debug\MyRDP.pdb
